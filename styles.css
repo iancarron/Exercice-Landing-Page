@@ -1,0 +1,24 @@
+body {
+  background-size: cover;
+  background-image: url("image/photo-1503669678209-c68d00b3765d.jpeg");
+  background-repeat: no-repeat;
+  background-color: black;
+  font-family: "Nunito Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings: "wdth" 100, "YTLC" 500;
+}
+h1 {
+  color: white;
+  font-size: 140px;
+  font-weight: 800;
+}
+p {
+  color: white;
+  font-size: 48px;
+  font-weight: 150;
+}
+.advice {
+  color: white;
+}
